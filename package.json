@@ -1,0 +1,13 @@
+{
+  "name": "typescriptstudies",
+  "version": "1.0.0",
+  "description": "Repositório dedicado ao meu aprendizado em TypeScript, contendo exemplos práticos, anotações e pequenos experimentos organizados por assunto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
